@@ -1,0 +1,219 @@
+.left_intro {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.right_intro {
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.my_photo {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.contacts {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.introContacts {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Education */
+
+.cu_photo_div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 25px;
+    margin-left: 50px;
+}
+
+.cu_text_div {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 25px;
+}
+
+.cu_photo {
+    height: 350px;
+    width: 500px;
+    border-radius: 10%;
+}
+
+.cu_text {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.ucsd_photo_div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+    margin-left: 25px;
+}
+
+.ucsd_text_div {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 25px;
+    margin-left: 150px;
+}
+
+.ucsd_photo {
+    height: 350px;
+    width: 500px;
+    border-radius: 10%;
+}
+
+.ucsd_text {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Skills */
+
+.all_skills {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.programming_skills_points {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.programming_skills {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.language_skills {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.languages {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.other_skills {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.other_skills_point {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Projects */
+
+.projects {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.project_div {
+    display: flex;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.single_project {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.project_point {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Experience */
+
+.tencent_logo {
+    height: 360px;
+    width: 640px;
+}
+
+.Experience {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.Intern {
+    display: grid;
+    /* align-items: center; */
+    grid-template-columns: 1fr 1fr;
+}
+
+.intern_text {
+    display: grid;
+    margin-top: 50px;
+    grid-template-rows: 60px 40px 60px;
+}
+
+.research {
+    display: grid;
+    /* border: 1px solid black; */
+    /* align-items: center; */
+    grid-template-columns: 1fr 1fr;
+}
+
+.research_text {
+    display: grid;
+    margin-top: 50px;
+    grid-template-rows: 60px 40px 60px;
+}
+
+.cu_logo {
+    height: 260px;
+    width: 300px;
+}
+
+.industry {
+    display: grid;
+    /* align-items: center; */
+    margin-top: 50px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.industry_text {
+    display: grid;
+    margin-top: 50px;
+    grid-template-rows: 60px 40px 60px;
+}
+
+.unilever_logo {
+    height: 360px;
+    width: 640px;
+}
