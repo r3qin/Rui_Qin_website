@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/Rui_Qin_website/static/css/main.a0a5d5d0.chunk.css",
-    "main.js": "/Rui_Qin_website/static/js/main.6a810cac.chunk.js",
-    "main.js.map": "/Rui_Qin_website/static/js/main.6a810cac.chunk.js.map",
-    "runtime-main.js": "/Rui_Qin_website/static/js/runtime-main.a2cda8bb.js",
-    "runtime-main.js.map": "/Rui_Qin_website/static/js/runtime-main.a2cda8bb.js.map",
-    "static/js/2.c2967bbd.chunk.js": "/Rui_Qin_website/static/js/2.c2967bbd.chunk.js",
-    "static/js/2.c2967bbd.chunk.js.map": "/Rui_Qin_website/static/js/2.c2967bbd.chunk.js.map",
-    "static/js/3.b850ae63.chunk.js": "/Rui_Qin_website/static/js/3.b850ae63.chunk.js",
-    "static/js/3.b850ae63.chunk.js.map": "/Rui_Qin_website/static/js/3.b850ae63.chunk.js.map",
+    "main.css": "/Rui_Qin_website/static/css/main.431eb7a6.chunk.css",
+    "main.js": "/Rui_Qin_website/static/js/main.3a45576d.chunk.js",
+    "main.js.map": "/Rui_Qin_website/static/js/main.3a45576d.chunk.js.map",
+    "runtime-main.js": "/Rui_Qin_website/static/js/runtime-main.377d21b0.js",
+    "runtime-main.js.map": "/Rui_Qin_website/static/js/runtime-main.377d21b0.js.map",
+    "static/css/2.da1eef19.chunk.css": "/Rui_Qin_website/static/css/2.da1eef19.chunk.css",
+    "static/js/2.2e5363c2.chunk.js": "/Rui_Qin_website/static/js/2.2e5363c2.chunk.js",
+    "static/js/2.2e5363c2.chunk.js.map": "/Rui_Qin_website/static/js/2.2e5363c2.chunk.js.map",
+    "static/js/3.5fc661d1.chunk.js": "/Rui_Qin_website/static/js/3.5fc661d1.chunk.js",
+    "static/js/3.5fc661d1.chunk.js.map": "/Rui_Qin_website/static/js/3.5fc661d1.chunk.js.map",
     "index.html": "/Rui_Qin_website/index.html",
-    "static/css/main.a0a5d5d0.chunk.css.map": "/Rui_Qin_website/static/css/main.a0a5d5d0.chunk.css.map",
-    "static/js/2.c2967bbd.chunk.js.LICENSE.txt": "/Rui_Qin_website/static/js/2.c2967bbd.chunk.js.LICENSE.txt",
+    "static/css/2.da1eef19.chunk.css.map": "/Rui_Qin_website/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.431eb7a6.chunk.css.map": "/Rui_Qin_website/static/css/main.431eb7a6.chunk.css.map",
+    "static/js/2.2e5363c2.chunk.js.LICENSE.txt": "/Rui_Qin_website/static/js/2.2e5363c2.chunk.js.LICENSE.txt",
     "static/media/Tencent-Logo.003a8fdd.png": "/Rui_Qin_website/static/media/Tencent-Logo.003a8fdd.png",
     "static/media/background.df8d5987.jpg": "/Rui_Qin_website/static/media/background.df8d5987.jpg",
     "static/media/cu.141c33a4.jpg": "/Rui_Qin_website/static/media/cu.141c33a4.jpg",
     "static/media/cu_logo.6afc019a.png": "/Rui_Qin_website/static/media/cu_logo.6afc019a.png",
     "static/media/photo.7c53e3a9.jpg": "/Rui_Qin_website/static/media/photo.7c53e3a9.jpg",
     "static/media/ucsd.e29afe81.jpg": "/Rui_Qin_website/static/media/ucsd.e29afe81.jpg",
-    "static/media/unilever.aa938193.png": "/Rui_Qin_website/static/media/unilever.aa938193.png"
+    "static/media/unilever.aa938193.png": "/Rui_Qin_website/static/media/unilever.aa938193.png",
+    "static/media/word_cloud.49fa8104.jpg": "/Rui_Qin_website/static/media/word_cloud.49fa8104.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2cda8bb.js",
-    "static/js/2.c2967bbd.chunk.js",
-    "static/css/main.a0a5d5d0.chunk.css",
-    "static/js/main.6a810cac.chunk.js"
+    "static/js/runtime-main.377d21b0.js",
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.2e5363c2.chunk.js",
+    "static/css/main.431eb7a6.chunk.css",
+    "static/js/main.3a45576d.chunk.js"
   ]
 }
